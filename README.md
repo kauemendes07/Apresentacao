@@ -26,5 +26,3 @@ Sou um desenvolvedor Front-End e Back-End iniciante, formado em Desenvolvimento 
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/kauemendes07)
 
-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
-
