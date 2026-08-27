@@ -18,11 +18,14 @@ Sou um desenvolvedor Front-End e Back-End iniciante, formado em Desenvolvimento 
 *  **Design:** Figma
 
 *  **Outros:** Git, Metodologias Ágeis
-*  
 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://www.linkedin.com/in/kau%C3%AAmendes/)
 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/kauemendes07)
+
+### 🔎 O que Procuro
+
+Estou na busca pelo meu primeiro estagio na área de tecnologia, quero demonstrar ao mundo a capacidade dos meus conhecimentos tecnicos na pratica para inovar e crescer cada vez mais.
 
