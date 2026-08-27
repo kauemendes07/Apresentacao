@@ -60,7 +60,7 @@ Quero colocar meus conhecimentos técnicos em prática, contribuir com projetos 
 💡 Meu objetivo é transformar conhecimento em soluções e crescer junto com cada novo desafio.
 
 
-###📫 Onde me encontrar: 
+### 📫 Onde me encontrar: 
 
 <p align="left"> <a href="https://www.linkedin.com/in/kau%C3%AAmendes/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://dev.to/kauemendes07"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/> </a> <a href="mailto:kauemcarreiro11@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
