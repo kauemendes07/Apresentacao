@@ -18,7 +18,7 @@ Sou um desenvolvedor Front-End e Back-End iniciante, formado em Desenvolvimento 
 *  **Design:** Figma
 
 *  **Outros:** Git, Metodologias Ágeis
-
+*  
 
 ### 📫 Como me encontrar
 
